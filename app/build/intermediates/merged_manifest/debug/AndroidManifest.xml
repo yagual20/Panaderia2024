@@ -57,6 +57,7 @@
         android:label="PrecioChecker"
         android:roundIcon="@drawable/logof"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.MyKotlinList" >
         <activity
             android:name="com.example.mykotlinlist.CarritoActivity"

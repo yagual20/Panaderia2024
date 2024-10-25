@@ -105,7 +105,7 @@
 48-->[androidx.core:core:1.9.0] C:\Users\LUIS\.gradle\caches\transforms-3\4cf47ca9ce2a85aa0923fbfa9e714a39\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 49
 50    <application
-50-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:28:5-80:19
+50-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:28:5-78:19
 51        android:allowBackup="true"
 51-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:29:9-35
 52        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -123,182 +123,183 @@
 58-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:34:9-44
 59        android:supportsRtl="true"
 59-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:35:9-35
-60        android:theme="@style/Theme.MyKotlinList" >
-60-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:36:9-50
-61        <activity
-61-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:38:9-40:40
-62            android:name="com.example.mykotlinlist.CarritoActivity"
-62-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:39:13-44
-63            android:exported="false" />
-63-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:40:13-37
-64
-65        <meta-data
-65-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:42:9-44:71
-66            android:name="com.google.android.geo.API_KEY"
-66-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:43:13-58
-67            android:value="AIzaSyB1EJ_osVBpLXcepHyYghEXugLxD6uHqas" />
-67-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:44:13-68
-68
-69        <activity
-69-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:46:9-48:40
-70            android:name="com.example.mykotlinlist.maps.MapActivity"
-70-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:47:13-45
-71            android:exported="false" />
-71-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:48:13-37
-72        <activity
-72-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:49:9-52:45
-73            android:name="com.example.mykotlinlist.MainActivity"
-73-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:50:13-41
-74            android:exported="false"
-74-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:51:13-37
-75            android:label="PrecioChecker" />
-75-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:52:13-42
-76        <activity
-76-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:53:9-55:40
-77            android:name="com.example.mykotlinlist.VerInformacion"
-77-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:54:13-43
-78            android:exported="false" />
-78-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:55:13-37
-79        <activity
-79-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:56:9-58:40
-80            android:name="com.example.mykotlinlist.VerPelicula"
-80-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:57:13-40
-81            android:exported="false" />
-81-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:58:13-37
-82        <activity
-82-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:59:9-65:20
-83            android:name="com.example.mykotlinlist.DescriptionActivity"
-83-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:60:13-48
-84            android:exported="false" >
-84-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:61:13-37
-85            <meta-data
-85-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:62:13-64:36
-86                android:name="android.app.lib_name"
-86-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:63:17-52
-87                android:value="" />
-87-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:64:17-33
-88        </activity>
-89        <activity
-89-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:66:9-79:20
-90            android:name="com.example.mykotlinlist.ui.login.LoginActivity"
-90-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:67:13-51
-91            android:exported="true"
-91-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:68:13-36
-92            android:label="Login" >
-92-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:69:13-34
-93            <intent-filter>
-93-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:70:13-74:29
-94                <action android:name="android.intent.action.MAIN" />
-94-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:71:17-69
-94-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:71:25-66
-95
-96                <category android:name="android.intent.category.LAUNCHER" />
-96-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:73:17-77
-96-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:73:27-74
-97            </intent-filter>
-98
-99            <meta-data
-99-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:62:13-64:36
-100                android:name="android.app.lib_name"
-100-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:63:17-52
-101                android:value="" />
-101-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:64:17-33
-102        </activity>
-103        <activity
-103-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:14:9-20:20
-104            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
-104-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:15:13-91
-105            android:exported="false"
-105-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:16:13-37
-106            android:label="@string/places_autocomplete_label"
-106-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:17:13-62
-107            android:theme="@style/PlacesAutocompleteOverlay"
-107-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:18:13-61
-108            android:windowSoftInputMode="adjustResize" >
-108-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:19:13-55
-109        </activity> <!-- Needs to be explicitly declared on P+ -->
-110        <uses-library
-110-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\LUIS\.gradle\caches\transforms-3\f0313f57c6eff7ce11c2ac1a325ac625\transformed\play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
-111            android:name="org.apache.http.legacy"
-111-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\LUIS\.gradle\caches\transforms-3\f0313f57c6eff7ce11c2ac1a325ac625\transformed\play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
-112            android:required="false" />
-112-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\LUIS\.gradle\caches\transforms-3\f0313f57c6eff7ce11c2ac1a325ac625\transformed\play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
-113
-114        <activity
-114-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\780141d47a947ab56634455ef7f08792\transformed\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
-115            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-115-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\780141d47a947ab56634455ef7f08792\transformed\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
-116            android:exported="false"
-116-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\780141d47a947ab56634455ef7f08792\transformed\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
-117            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-117-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\780141d47a947ab56634455ef7f08792\transformed\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
-118
-119        <meta-data
-119-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\32585e769315757bcb4235f3bed87684\transformed\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
-120            android:name="com.google.android.gms.version"
-120-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\32585e769315757bcb4235f3bed87684\transformed\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
-121            android:value="@integer/google_play_services_version" />
-121-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\32585e769315757bcb4235f3bed87684\transformed\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
-122
-123        <provider
-123-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-124            android:name="androidx.startup.InitializationProvider"
-124-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-125            android:authorities="com.example.mykotlinlist.androidx-startup"
-125-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-126            android:exported="false" >
-126-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-127            <meta-data
-127-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-128                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-128-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-129                android:value="androidx.startup" />
-129-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-130            <meta-data
-130-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LUIS\.gradle\caches\transforms-3\e841739f6ade9699688ef97a2b93adc2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-131                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-131-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LUIS\.gradle\caches\transforms-3\e841739f6ade9699688ef97a2b93adc2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-132                android:value="androidx.startup" />
-132-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LUIS\.gradle\caches\transforms-3\e841739f6ade9699688ef97a2b93adc2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-133        </provider>
-134        <provider
-134-->[com.squareup.picasso:picasso:2.8] C:\Users\LUIS\.gradle\caches\transforms-3\0a0caff6f6162a29909804975ada3de8\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
-135            android:name="com.squareup.picasso.PicassoProvider"
-135-->[com.squareup.picasso:picasso:2.8] C:\Users\LUIS\.gradle\caches\transforms-3\0a0caff6f6162a29909804975ada3de8\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
-136            android:authorities="com.example.mykotlinlist.com.squareup.picasso"
-136-->[com.squareup.picasso:picasso:2.8] C:\Users\LUIS\.gradle\caches\transforms-3\0a0caff6f6162a29909804975ada3de8\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
-137            android:exported="false" />
-137-->[com.squareup.picasso:picasso:2.8] C:\Users\LUIS\.gradle\caches\transforms-3\0a0caff6f6162a29909804975ada3de8\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
-138
-139        <service
-139-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
-140            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-140-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
-141            android:exported="false" >
-141-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
-142            <meta-data
-142-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
-143                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-143-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
-144                android:value="cct" />
-144-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
-145        </service>
-146        <service
-146-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
-147            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-147-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
-148            android:exported="false"
-148-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
-149            android:permission="android.permission.BIND_JOB_SERVICE" >
-149-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
-150        </service>
-151
-152        <receiver
-152-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
-153            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-153-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
-154            android:exported="false" />
-154-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
-155    </application>
-156
-157</manifest>
+60        android:testOnly="true"
+61        android:theme="@style/Theme.MyKotlinList" >
+61-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:36:9-50
+62        <activity
+62-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:38:9-40:40
+63            android:name="com.example.mykotlinlist.CarritoActivity"
+63-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:39:13-44
+64            android:exported="false" />
+64-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:40:13-37
+65
+66        <meta-data
+66-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:42:9-44:71
+67            android:name="com.google.android.geo.API_KEY"
+67-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:43:13-58
+68            android:value="AIzaSyB1EJ_osVBpLXcepHyYghEXugLxD6uHqas" />
+68-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:44:13-68
+69
+70        <activity
+70-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:46:9-48:40
+71            android:name="com.example.mykotlinlist.maps.MapActivity"
+71-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:47:13-45
+72            android:exported="false" />
+72-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:48:13-37
+73        <activity
+73-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:49:9-52:45
+74            android:name="com.example.mykotlinlist.MainActivity"
+74-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:50:13-41
+75            android:exported="false"
+75-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:51:13-37
+76            android:label="PrecioChecker" />
+76-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:52:13-42
+77        <activity
+77-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:53:9-55:40
+78            android:name="com.example.mykotlinlist.VerInformacion"
+78-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:54:13-43
+79            android:exported="false" />
+79-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:55:13-37
+80        <activity
+80-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:56:9-58:40
+81            android:name="com.example.mykotlinlist.VerPelicula"
+81-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:57:13-40
+82            android:exported="false" />
+82-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:58:13-37
+83        <activity
+83-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:59:9-65:20
+84            android:name="com.example.mykotlinlist.DescriptionActivity"
+84-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:60:13-48
+85            android:exported="false" >
+85-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:61:13-37
+86            <meta-data
+86-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:62:13-64:36
+87                android:name="android.app.lib_name"
+87-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:63:17-52
+88                android:value="" />
+88-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:64:17-33
+89        </activity>
+90        <activity
+90-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:66:9-77:20
+91            android:name="com.example.mykotlinlist.ui.login.LoginActivity"
+91-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:67:13-51
+92            android:exported="true"
+92-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:68:13-36
+93            android:label="Login" >
+93-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:69:13-34
+94            <intent-filter>
+94-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:70:13-73:29
+95                <action android:name="android.intent.action.MAIN" />
+95-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:71:17-69
+95-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:71:25-66
+96
+97                <category android:name="android.intent.category.LAUNCHER" />
+97-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:72:17-77
+97-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:72:27-74
+98            </intent-filter>
+99
+100            <meta-data
+100-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:62:13-64:36
+101                android:name="android.app.lib_name"
+101-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:63:17-52
+102                android:value="" />
+102-->C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\src\main\AndroidManifest.xml:64:17-33
+103        </activity>
+104        <activity
+104-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:14:9-20:20
+105            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+105-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:15:13-91
+106            android:exported="false"
+106-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:16:13-37
+107            android:label="@string/places_autocomplete_label"
+107-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:17:13-62
+108            android:theme="@style/PlacesAutocompleteOverlay"
+108-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:18:13-61
+109            android:windowSoftInputMode="adjustResize" >
+109-->[com.google.android.libraries.places:places:2.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\03a362bacbe0d6700493a272f6eebd8f\transformed\places-2.5.0\AndroidManifest.xml:19:13-55
+110        </activity> <!-- Needs to be explicitly declared on P+ -->
+111        <uses-library
+111-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\LUIS\.gradle\caches\transforms-3\f0313f57c6eff7ce11c2ac1a325ac625\transformed\play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+112            android:name="org.apache.http.legacy"
+112-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\LUIS\.gradle\caches\transforms-3\f0313f57c6eff7ce11c2ac1a325ac625\transformed\play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+113            android:required="false" />
+113-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\LUIS\.gradle\caches\transforms-3\f0313f57c6eff7ce11c2ac1a325ac625\transformed\play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+114
+115        <activity
+115-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\780141d47a947ab56634455ef7f08792\transformed\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+116            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+116-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\780141d47a947ab56634455ef7f08792\transformed\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+117            android:exported="false"
+117-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\780141d47a947ab56634455ef7f08792\transformed\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+118-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\780141d47a947ab56634455ef7f08792\transformed\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+119
+120        <meta-data
+120-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\32585e769315757bcb4235f3bed87684\transformed\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+121            android:name="com.google.android.gms.version"
+121-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\32585e769315757bcb4235f3bed87684\transformed\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+122            android:value="@integer/google_play_services_version" />
+122-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\LUIS\.gradle\caches\transforms-3\32585e769315757bcb4235f3bed87684\transformed\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+123
+124        <provider
+124-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+125            android:name="androidx.startup.InitializationProvider"
+125-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+126            android:authorities="com.example.mykotlinlist.androidx-startup"
+126-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+127            android:exported="false" >
+127-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+128            <meta-data
+128-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+129                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+129-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+130                android:value="androidx.startup" />
+130-->[androidx.emoji2:emoji2:1.2.0] C:\Users\LUIS\.gradle\caches\transforms-3\a7c4b5d183bda53c81ca0b757c42d0de\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+131            <meta-data
+131-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LUIS\.gradle\caches\transforms-3\e841739f6ade9699688ef97a2b93adc2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+132                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+132-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LUIS\.gradle\caches\transforms-3\e841739f6ade9699688ef97a2b93adc2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+133                android:value="androidx.startup" />
+133-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\LUIS\.gradle\caches\transforms-3\e841739f6ade9699688ef97a2b93adc2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+134        </provider>
+135        <provider
+135-->[com.squareup.picasso:picasso:2.8] C:\Users\LUIS\.gradle\caches\transforms-3\0a0caff6f6162a29909804975ada3de8\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+136            android:name="com.squareup.picasso.PicassoProvider"
+136-->[com.squareup.picasso:picasso:2.8] C:\Users\LUIS\.gradle\caches\transforms-3\0a0caff6f6162a29909804975ada3de8\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+137            android:authorities="com.example.mykotlinlist.com.squareup.picasso"
+137-->[com.squareup.picasso:picasso:2.8] C:\Users\LUIS\.gradle\caches\transforms-3\0a0caff6f6162a29909804975ada3de8\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+138            android:exported="false" />
+138-->[com.squareup.picasso:picasso:2.8] C:\Users\LUIS\.gradle\caches\transforms-3\0a0caff6f6162a29909804975ada3de8\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+139
+140        <service
+140-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+141            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+141-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+142            android:exported="false" >
+142-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+143            <meta-data
+143-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+144                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+144-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+145                android:value="cct" />
+145-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\LUIS\.gradle\caches\transforms-3\0339c6add19300a1edc250ecd46e2b8a\transformed\transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+146        </service>
+147        <service
+147-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+148            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+148-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+149            android:exported="false"
+149-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+150            android:permission="android.permission.BIND_JOB_SERVICE" >
+150-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+151        </service>
+152
+153        <receiver
+153-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+154            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+154-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+155            android:exported="false" />
+155-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\LUIS\.gradle\caches\transforms-3\ba5f8579164ab713fed0d2c5baa86e55\transformed\transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+156    </application>
+157
+158</manifest>
