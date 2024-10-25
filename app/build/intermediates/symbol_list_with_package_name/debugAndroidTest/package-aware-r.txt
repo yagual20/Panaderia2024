@@ -1,0 +1,3 @@
+com.example.mykotlinlist.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

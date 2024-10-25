@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <fragment
+            android:id="@+id/mapFragment"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="150dp"
+            tools:context=".MapActivity" />
+
+    <SeekBar
+            android:id="@+id/rangeSeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:max="10"
+            android:progress="5"
+            android:progressTint="@color/black"
+            android:thumb="?android:attr/listChoiceIndicatorSingle"
+             />
+
+    <TextView
+            android:id="@+id/rangeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rangeSeekBar"
+            android:layout_marginTop="8dp"
+            android:text="5 km"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+    <!--Boton debajo del mapa-->
+    <Button
+            android:id="@+id/btnMapa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rangeTextView"
+            android:layout_marginTop="8dp"
+            android:text="Buscar"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+</RelativeLayout>
+
+

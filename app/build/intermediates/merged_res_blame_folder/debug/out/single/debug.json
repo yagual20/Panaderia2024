@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_principallogo.PNG.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\principallogo.PNG"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_carritopng.png.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\carritopng.png"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_ellipse.png.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\ellipse.png"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout-w936dp_activity_login.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout-w936dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout_item_bestmovies.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\item_bestmovies.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_logofinal.PNG.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\logofinal.PNG"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_logofinal2.PNG.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\logofinal2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout_activity_ver_pelicula.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_ver_pelicula.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout_activity_ver_informacion.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_ver_informacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_logoact.PNG.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\logoact.PNG"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_logo.PNG.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\logo.PNG"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-pngs-35:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_loginpanaderia.png.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\loginpanaderia.png"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_average.png.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\average.png"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_lebel.jpg.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\lebel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout-w1240dp_activity_login.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout-w1240dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_logof.PNG.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\logof.PNG"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "com.example.mykotlinlist.app-merged_res-40:/layout_activity_login.xml.flat",
+        "source": "com.example.mykotlinlist.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_lebel__1_.jpg.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\lebel__1_.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_logo3.PNG.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\logo3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_carrito.png.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\carrito.png"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\drawable_carro_de_la_carretilla.png.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\drawable\\carro_de_la_carretilla.png"
+    },
+    {
+        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-merged_res-40:\\layout_activity_description.xml.flat",
+        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_description.xml"
+    }
+]

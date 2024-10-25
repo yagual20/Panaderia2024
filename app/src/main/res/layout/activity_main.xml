@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4C0770"
+    tools:context=".MainActivity">
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="#5A0A83"
+        android:iconifiedByDefault="false"
+        android:queryHint="Buscar producto..."
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        android:visibility="visible"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="160dp"/>
+    <TextView
+            android:text="MEJORES OFERTAS"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="110dp"
+            android:layout_marginStart="16dp"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold"
+
+            android:layout_height="wrap_content" android:id="@+id/textView"/>
+    <ImageView
+            android:layout_width="61dp"
+            android:layout_marginTop="110dp"
+            android:layout_marginStart="316dp"
+            android:layout_height="40dp" app:srcCompat="@drawable/carrito" android:id="@+id/imageView"/>
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:srcCompat="@drawable/ellipse" android:id="@+id/imageView3"
+            android:layout_marginStart="351dp"
+            android:layout_marginTop="105dp"
+            android:layout_marginEnd="16dp"
+            android:visibility="invisible"
+            android:layout_marginBottom="16dp"/>
+    <TextView
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:layout_marginStart="359dp"
+            android:layout_marginTop="107dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:textColor="@color/white"
+            android:id="@+id/textView2"/>
+
+
+
+
+</FrameLayout>
