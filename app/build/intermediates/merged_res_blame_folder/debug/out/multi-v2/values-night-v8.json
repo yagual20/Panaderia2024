@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mykotlinlist.app-mergeDebugResources-38:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.mykotlinlist.app-mergeDebugResources-48:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LUIS\\.gradle\\caches\\transforms-3\\a5d27fd1ab954ee81ee9d94bdd530d53\\transformed\\material-1.8.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\yorhs\\.gradle\\caches\\transforms-3\\f65e671ae6e41826769fb7fde87427df\\transformed\\material-1.8.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,14 +21,14 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LUIS\\Documents\\ProyectoKyY\\MyKotlinList\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\yorhs\\Documents\\Panaderia2024\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "100",
+                        "startOffsets": "102",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "801"
+                        "endOffsets": "815"
                     },
                     "to": {
                         "startLines": "34",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LUIS\\.gradle\\caches\\transforms-3\\d87d43b06734b783b9b651f947836087\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\yorhs\\.gradle\\caches\\transforms-3\\fb81a0200a6e244034abfc0c4cce555e\\transformed\\appcompat-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

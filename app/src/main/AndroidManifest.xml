@@ -29,9 +29,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/logof"
-        android:label="PrecioChecker"
-        android:roundIcon="@drawable/logof"
+        android:icon="@drawable/loginpanaderia"
+        android:label="Ambrosia"
+        android:roundIcon="@drawable/loginpanaderia"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyKotlinList"
         tools:targetApi="31">

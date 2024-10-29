@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683718058301",
+    "project_id": "pelis-6dbf8",
+    "storage_bucket": "pelis-6dbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683718058301:android:3d3495eb95ae56fa162554",
+        "android_client_info": {
+          "package_name": "com.example.mykotlinlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmTmDLGQ4cmptawkUHCNKoIlMmliYAwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

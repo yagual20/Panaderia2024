@@ -1,15 +1,20 @@
+
 plugins {
-    id 'com.android.application'
+    id("com.android.application")
     id 'org.jetbrains.kotlin.android'
+    id("com.google.gms.google-services")
+
+
+
 }
 
 android {
     namespace 'com.example.mykotlinlist'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.mykotlinlist"
-        minSdk 21
+        minSdk 23
         targetSdk 33
         versionCode 1
         versionName "1.0"
@@ -55,6 +60,10 @@ dependencies {
     implementation 'com.google.android.gms:play-services-places:17.0.0'
     implementation 'com.google.android.gms:play-services-location:18.0.0'
     implementation 'com.google.android.libraries.places:places:2.5.0'
+    implementation(platform("com.google.firebase:firebase-bom:33.5.1"))
+    implementation("com.google.firebase:firebase-analytics")
+    implementation("com.google.firebase:firebase-auth:23.1.0")
+    implementation 'com.google.android.gms:play-services-auth:21.2.0'
 
 
 

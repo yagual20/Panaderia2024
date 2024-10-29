@@ -9,4 +9,5 @@
     <string name="invalid_useremail">Correo electrónico no válido</string>
     <string name="invalid_password">Contraseña no válida</string>
     <string name="login_failed">"Error en el inicio de sesión"</string>
+
 </resources>

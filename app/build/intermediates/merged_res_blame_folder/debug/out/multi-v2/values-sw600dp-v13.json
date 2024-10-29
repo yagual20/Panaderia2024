@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mykotlinlist.app-mergeDebugResources-38:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "com.example.mykotlinlist.app-mergeDebugResources-48:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LUIS\\.gradle\\caches\\transforms-3\\a5d27fd1ab954ee81ee9d94bdd530d53\\transformed\\material-1.8.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\yorhs\\.gradle\\caches\\transforms-3\\f65e671ae6e41826769fb7fde87427df\\transformed\\material-1.8.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LUIS\\.gradle\\caches\\transforms-3\\d87d43b06734b783b9b651f947836087\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\yorhs\\.gradle\\caches\\transforms-3\\fb81a0200a6e244034abfc0c4cce555e\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

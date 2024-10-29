@@ -1,7 +1,7 @@
-com.example.mykotlinlist.test.app-core-1.5.0-0 C:\Users\LUIS\.gradle\caches\transforms-3\2f8ba8e3106b2bd04f206bef290fdf14\transformed\core-1.5.0\res
-com.example.mykotlinlist.test.app-annotation-experimental-1.3.0-1 C:\Users\LUIS\.gradle\caches\transforms-3\b53065ebb392d94c1b1cbf3e3bdf3f7f\transformed\annotation-experimental-1.3.0\res
-com.example.mykotlinlist.test.app-androidTest-2 C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\build\generated\res\resValues\androidTest\debug
-com.example.mykotlinlist.test.app-androidTest-3 C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\build\generated\res\rs\androidTest\debug
-com.example.mykotlinlist.test.app-mergeDebugAndroidTestResources-4 C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.mykotlinlist.test.app-mergeDebugAndroidTestResources-5 C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.mykotlinlist.test.app-merged_res-6 C:\Users\LUIS\Documents\ProyectoKyY\MyKotlinList\app\build\intermediates\merged_res\debugAndroidTest
+com.example.mykotlinlist.test.app-core-1.5.0-0 C:\Users\yorhs\.gradle\caches\transforms-3\9d48ae9e1969173b881a244a766deb3f\transformed\core-1.5.0\res
+com.example.mykotlinlist.test.app-annotation-experimental-1.3.0-1 C:\Users\yorhs\.gradle\caches\transforms-3\eace942b463eff5b8e10ec79fb2c1378\transformed\annotation-experimental-1.3.0\res
+com.example.mykotlinlist.test.app-androidTest-2 C:\Users\yorhs\Documents\Panaderia2024\app\build\generated\res\resValues\androidTest\debug
+com.example.mykotlinlist.test.app-androidTest-3 C:\Users\yorhs\Documents\Panaderia2024\app\build\generated\res\rs\androidTest\debug
+com.example.mykotlinlist.test.app-mergeDebugAndroidTestResources-4 C:\Users\yorhs\Documents\Panaderia2024\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mykotlinlist.test.app-mergeDebugAndroidTestResources-5 C:\Users\yorhs\Documents\Panaderia2024\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mykotlinlist.test.app-merged_res-6 C:\Users\yorhs\Documents\Panaderia2024\app\build\intermediates\merged_res\debugAndroidTest

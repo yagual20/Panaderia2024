@@ -22,6 +22,23 @@ public final class ActivityLoginBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-w1240dp/</li>
+   *   <li>layout-w936dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final Button botonGoogle;
+
   @NonNull
   public final ConstraintLayout container;
 
@@ -47,6 +64,23 @@ public final class ActivityLoginBinding implements ViewBinding {
    */
   @Nullable
   public final ImageView logo;
+
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-w1240dp/</li>
+   *   <li>layout-w936dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final Button nuevoLogin;
 
   @NonNull
   public final EditText password;
@@ -85,15 +119,17 @@ public final class ActivityLoginBinding implements ViewBinding {
   @Nullable
   public final EditText username;
 
-  private ActivityLoginBinding(@NonNull ConstraintLayout rootView,
+  private ActivityLoginBinding(@NonNull ConstraintLayout rootView, @Nullable Button botonGoogle,
       @NonNull ConstraintLayout container, @NonNull ProgressBar loading, @NonNull Button login,
-      @Nullable ImageView logo, @NonNull EditText password, @Nullable EditText useremail,
-      @Nullable EditText username) {
+      @Nullable ImageView logo, @Nullable Button nuevoLogin, @NonNull EditText password,
+      @Nullable EditText useremail, @Nullable EditText username) {
     this.rootView = rootView;
+    this.botonGoogle = botonGoogle;
     this.container = container;
     this.loading = loading;
     this.login = login;
     this.logo = logo;
+    this.nuevoLogin = nuevoLogin;
     this.password = password;
     this.useremail = useremail;
     this.username = username;
@@ -126,6 +162,9 @@ public final class ActivityLoginBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.botonGoogle;
+      Button botonGoogle = ViewBindings.findChildViewById(rootView, id);
+
       ConstraintLayout container = (ConstraintLayout) rootView;
 
       id = R.id.loading;
@@ -143,6 +182,9 @@ public final class ActivityLoginBinding implements ViewBinding {
       id = R.id.logo;
       ImageView logo = ViewBindings.findChildViewById(rootView, id);
 
+      id = R.id.nuevoLogin;
+      Button nuevoLogin = ViewBindings.findChildViewById(rootView, id);
+
       id = R.id.password;
       EditText password = ViewBindings.findChildViewById(rootView, id);
       if (password == null) {
@@ -155,8 +197,8 @@ public final class ActivityLoginBinding implements ViewBinding {
       id = R.id.username;
       EditText username = ViewBindings.findChildViewById(rootView, id);
 
-      return new ActivityLoginBinding((ConstraintLayout) rootView, container, loading, login, logo,
-          password, useremail, username);
+      return new ActivityLoginBinding((ConstraintLayout) rootView, botonGoogle, container, loading,
+          login, logo, nuevoLogin, password, useremail, username);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

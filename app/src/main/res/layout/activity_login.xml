@@ -44,26 +44,26 @@
 
     <Button
         android:id="@+id/login"
-        android:layout_width="wrap_content"
+        android:layout_width="205dp"
         android:layout_height="wrap_content"
         android:layout_gravity="start"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="64dp"
-        android:background="@color/material_dynamic_neutral20"
-        android:enabled="false"
+        android:layout_marginBottom="10dp"
+        android:background="@android:drawable/button_onoff_indicator_on"
+        android:enabled="true"
         android:outlineAmbientShadowColor="@color/white"
         android:outlineSpotShadowColor="@color/teal_700"
         android:rotationX="-8"
-        android:text="Iniciar Sesion"
-        android:textColor="#503016"
+        android:text="Crear Nueva Cuenta"
+        android:textColor="#FFFDFC"
         android:textColorHighlight="@color/teal_700"
         android:textColorHint="#4D4B4B"
         android:textColorLink="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/password"
-        app:layout_constraintVertical_bias="0.25" />
+        app:layout_constraintTop_toBottomOf="@+id/password" />
 
     <ProgressBar
         android:id="@+id/loading"
@@ -89,4 +89,23 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/loginpanaderia"
         />
+
+    <Button
+        android:id="@+id/nuevoLogin"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@android:drawable/button_onoff_indicator_on"
+        android:text="Login"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/password" />
+
+    <Button
+        android:id="@+id/botonGoogle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GOOGLE"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="558dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
