@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "675604494501",
     "project_id": "panaderia2025-58cc8",
-    "storage_bucket": "panaderia2025-58cc8.appspot.com"
+    "storage_bucket": "panaderia2025-58cc8.firebasestorage.app"
   },
   "client": [
     {
@@ -14,12 +14,16 @@
       },
       "oauth_client": [
         {
-          "client_id": "675604494501-jq2qga894ifargule2pkcojcv6o9fg29.apps.googleusercontent.com",
+          "client_id": "675604494501-vjsn4pl5a60ku735frkpk7n3gmk9jf75.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.mykotlinlist",
             "certificate_hash": "c3bf025d1cac5bc88e7149c719d8d77b3c98be66"
           }
+        },
+        {
+          "client_id": "675604494501-jh8pktmh05fobfb7v76qhscl2ii2vdh9.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [
@@ -29,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675604494501-jh8pktmh05fobfb7v76qhscl2ii2vdh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
