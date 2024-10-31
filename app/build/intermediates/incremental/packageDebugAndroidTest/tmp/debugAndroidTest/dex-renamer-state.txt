@@ -1,4 +1,4 @@
-#Wed Oct 23 22:30:48 ECT 2024
+#Tue Oct 29 18:34:27 ECT 2024
 base.0=C\:\\Users\\LUIS\\Documents\\ProyectoKyY\\MyKotlinList\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
 base.1=C\:\\Users\\LUIS\\Documents\\ProyectoKyY\\MyKotlinList\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
 base.2=C\:\\Users\\LUIS\\Documents\\ProyectoKyY\\MyKotlinList\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\15\\classes.dex

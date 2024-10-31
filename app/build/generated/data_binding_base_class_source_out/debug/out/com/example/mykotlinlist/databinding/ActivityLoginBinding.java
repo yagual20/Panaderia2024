@@ -22,14 +22,65 @@ public final class ActivityLoginBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-w1240dp/</li>
+   *   <li>layout-w936dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final Button Login;
+
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-w1240dp/</li>
+   *   <li>layout-w936dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final Button botonGoogle;
+
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-w1240dp/</li>
+   *   <li>layout-w936dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final ImageView botonfb;
+
   @NonNull
   public final ConstraintLayout container;
 
   @NonNull
-  public final ProgressBar loading;
+  public final Button crearcuenta;
 
   @NonNull
-  public final Button login;
+  public final ProgressBar loading;
 
   /**
    * This binding is not available in all configurations.
@@ -85,14 +136,18 @@ public final class ActivityLoginBinding implements ViewBinding {
   @Nullable
   public final EditText username;
 
-  private ActivityLoginBinding(@NonNull ConstraintLayout rootView,
-      @NonNull ConstraintLayout container, @NonNull ProgressBar loading, @NonNull Button login,
-      @Nullable ImageView logo, @NonNull EditText password, @Nullable EditText useremail,
-      @Nullable EditText username) {
+  private ActivityLoginBinding(@NonNull ConstraintLayout rootView, @Nullable Button Login,
+      @Nullable Button botonGoogle, @Nullable ImageView botonfb,
+      @NonNull ConstraintLayout container, @NonNull Button crearcuenta,
+      @NonNull ProgressBar loading, @Nullable ImageView logo, @NonNull EditText password,
+      @Nullable EditText useremail, @Nullable EditText username) {
     this.rootView = rootView;
+    this.Login = Login;
+    this.botonGoogle = botonGoogle;
+    this.botonfb = botonfb;
     this.container = container;
+    this.crearcuenta = crearcuenta;
     this.loading = loading;
-    this.login = login;
     this.logo = logo;
     this.password = password;
     this.useremail = useremail;
@@ -126,17 +181,26 @@ public final class ActivityLoginBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.Login;
+      Button Login = ViewBindings.findChildViewById(rootView, id);
+
+      id = R.id.botonGoogle;
+      Button botonGoogle = ViewBindings.findChildViewById(rootView, id);
+
+      id = R.id.botonfb;
+      ImageView botonfb = ViewBindings.findChildViewById(rootView, id);
+
       ConstraintLayout container = (ConstraintLayout) rootView;
+
+      id = R.id.crearcuenta;
+      Button crearcuenta = ViewBindings.findChildViewById(rootView, id);
+      if (crearcuenta == null) {
+        break missingId;
+      }
 
       id = R.id.loading;
       ProgressBar loading = ViewBindings.findChildViewById(rootView, id);
       if (loading == null) {
-        break missingId;
-      }
-
-      id = R.id.login;
-      Button login = ViewBindings.findChildViewById(rootView, id);
-      if (login == null) {
         break missingId;
       }
 
@@ -155,8 +219,8 @@ public final class ActivityLoginBinding implements ViewBinding {
       id = R.id.username;
       EditText username = ViewBindings.findChildViewById(rootView, id);
 
-      return new ActivityLoginBinding((ConstraintLayout) rootView, container, loading, login, logo,
-          password, useremail, username);
+      return new ActivityLoginBinding((ConstraintLayout) rootView, Login, botonGoogle, botonfb,
+          container, crearcuenta, loading, logo, password, useremail, username);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

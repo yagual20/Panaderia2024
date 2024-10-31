@@ -9,4 +9,13 @@
     <string name="invalid_useremail">Correo electrónico no válido</string>
     <string name="invalid_password">Contraseña no válida</string>
     <string name="login_failed">"Error en el inicio de sesión"</string>
+    <string name="server_client_id">675604494501-9jomancdhjb3pevi4d5l4ii2kevjh956.apps.googleusercontent.com</string>
+
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+
 </resources>

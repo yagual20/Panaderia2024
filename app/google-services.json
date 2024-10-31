@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "675604494501",
+    "project_id": "panaderia2025-58cc8",
+    "storage_bucket": "panaderia2025-58cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675604494501:android:4502602521f5bf7d1db54c",
+        "android_client_info": {
+          "package_name": "com.example.mykotlinlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675604494501-jq2qga894ifargule2pkcojcv6o9fg29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mykotlinlist",
+            "certificate_hash": "c3bf025d1cac5bc88e7149c719d8d77b3c98be66"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo66xkdgi0IHqER2kOhKxNyZCnS6GS-_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

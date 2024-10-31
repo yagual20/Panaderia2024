@@ -1,34 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-mergeDebugResources-39:\\layout\\activity_ver_pelicula.xml",
-        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_ver_pelicula.xml"
+        "merged": "com.example.mykotlinlist.app-mergeDebugResources-49:/layout/activity_description.xml",
+        "source": "com.example.mykotlinlist.app-main-52:/layout/activity_description.xml"
     },
     {
-        "merged": "com.example.mykotlinlist.app-mergeDebugResources-39:/layout/activity_login.xml",
-        "source": "com.example.mykotlinlist.app-main-42:/layout/activity_login.xml"
+        "merged": "com.example.mykotlinlist.app-mergeDebugResources-49:/layout/item_bestmovies.xml",
+        "source": "com.example.mykotlinlist.app-main-52:/layout/item_bestmovies.xml"
     },
     {
-        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-mergeDebugResources-39:\\layout\\activity_description.xml",
-        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_description.xml"
+        "merged": "com.example.mykotlinlist.app-mergeDebugResources-49:/layout/activity_login.xml",
+        "source": "com.example.mykotlinlist.app-main-52:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-mergeDebugResources-39:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_main.xml"
+        "merged": "com.example.mykotlinlist.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.mykotlinlist.app-main-52:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-mergeDebugResources-39:\\layout\\item_bestmovies.xml",
-        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\item_bestmovies.xml"
+        "merged": "com.example.mykotlinlist.app-mergeDebugResources-49:/layout/activity_map.xml",
+        "source": "com.example.mykotlinlist.app-main-52:/layout/activity_map.xml"
     },
     {
-        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-mergeDebugResources-39:\\layout\\activity_ver_informacion.xml",
-        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_ver_informacion.xml"
+        "merged": "com.example.mykotlinlist.app-mergeDebugResources-49:/layout/activity_ver_informacion.xml",
+        "source": "com.example.mykotlinlist.app-main-52:/layout/activity_ver_informacion.xml"
     },
     {
-        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-mergeDebugResources-39:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-mergeDebugResources-39:\\layout\\activity_map.xml",
-        "source": "C:\\Users\\LUIS\\.gradle\\daemon\\7.5\\com.example.mykotlinlist.app-main-42:\\layout\\activity_map.xml"
+        "merged": "com.example.mykotlinlist.app-mergeDebugResources-49:/layout/activity_ver_pelicula.xml",
+        "source": "com.example.mykotlinlist.app-main-52:/layout/activity_ver_pelicula.xml"
     }
 ]
