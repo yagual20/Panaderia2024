@@ -83,9 +83,10 @@ class LoginActivity : AppCompatActivity() {
                     }
                 }
             }else{
-                Toast.makeText(this, "Se debe rellenar todos los campos", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Se debe llenar todos los campos", Toast.LENGTH_SHORT).show()
                 }
         }
+
         botonGoogle = findViewById(R.id.botonGoogle)
         botonGoogle.setOnClickListener {
             //Configuracion
@@ -98,7 +99,7 @@ class LoginActivity : AppCompatActivity() {
 
         }
 
-
+/*
         botonfb.setOnClickListener{
         LoginManager.getInstance().logInWithReadPermissions(this, listOf("email"))
             LoginManager.getInstance().registerCallback(callbackManager,
@@ -125,7 +126,7 @@ class LoginActivity : AppCompatActivity() {
                         showAlert()
                 }
         })
-        }
+        } */
 
     }
 
